@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Scrolling Assignment</title>
+
+<!-- AOS files -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css"/>
+
+
+  </head>
+  <body>
+  <!-- making the name and the images move while scrolling using the aos code -->
+  <!-- Source: https://michalsnik.github.io/aos/ -->
+<div class="container">
+  <div class="main" data-aos="fade-left">
+       <img src="images/title.svg" alt="Frame" class="not-resizable-image">
+  </div>
+
+    <div class="block" data-aos="fade-left"
+         data-aos-anchor="#example-anchor"
+         data-aos-offset="1000"
+         data-aos-duration="1000">
+         <img src="images/comics scene 1.svg" alt="Frame" class="resizable-image">
+    </div>
+
+    <div class="block" data-aos="flip-left"
+         data-aos-easing="ease-out-cubic"
+         data-aos-offset="2000"
+         data-aos-duration="3000">
+         <img src="images/comics scene 2.svg" alt="Frame" class="resizable-image">
+
+    </div>
+
+    <div class="block" data-aos="fade-left"
+         data-aos-anchor="#example-anchor"
+         data-aos-offset="3000"
+         data-aos-duration="3000">
+         <img src="images/comics scene 3.svg" alt="Frame" class="resizable-image">
+    </div>
+
+    <div class="block" data-aos="fade-left"
+         data-aos-anchor="#example-anchor"
+         data-aos-offset="4000"
+         data-aos-duration="3000">
+         <img src="images/comics scene 4.svg" alt="Frame" class="resizable-image">
+    </div>
+
+    <div class="block" data-aos="flip-left"
+         data-aos-easing="ease-out-cubic"
+         data-aos-offset="4600"
+         data-aos-duration="2000">
+         <img src="images/comics scene 5.svg" alt="Frame" class="resizable-image">
+    </div>
+
+    <div class="block" data-aos="fade-left"
+         data-aos-anchor="#example-anchor"
+         data-aos-offset="5600"
+         data-aos-duration="3000">
+         <img src="images/comics scene 6.svg" alt="Frame" class="resizable-image">
+    </div>
+</div>
+   <canvas id="theCanvas" width="300" height="300"></canvas>
+
+  <script src="script.js"> </script>
+  </body>
+</html>
