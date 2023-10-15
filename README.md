@@ -8,7 +8,7 @@ In this project, our objective was to provide a unique storytelling experience t
 
 **Process**
 
-Meticulously hand-drawn comics, reflecting hours of dedicated sketching and drawing using Adobe Illustrator, became the core of our storytelling. The technical intricacies of countless lines of code posed their own set of challenges. Late nights were spent perfecting the website's seamless user interface. However, every hurdle was met with determination, leading to the creation of “Chorus of Change.”
+Meticulously hand-drawn comics, reflecting hours of dedicated sketching and drawing using Adobe Illustrator, became the core of our storytelling. The technical intricacies of countless lines of code posed their own set of challenges. Late nights were spent perfecting the website's seamless user interface. However, every hurdle was met with determination, our collaborative efforts, led by Aruzhan, Diana, and Sara, were central to the creation of the "Chorus of Change." We worked closely together on most aspects of the project, with tasks often overlapping. Together, we shaped the website's backbones, layout, transitions, and sketches, ensuring a seamless user experience. We jointly worked on the sketches, adding depth and emotion to the visual narrative. Crafting engaging comic text was a collaborative effort, with all of us pouring our creativity into bringing the characters and their journey to life. This collaborative approach, with each of us playing our unique roles, resulted to a project we're immensely proud to share.
 
 **Evaluation**
 
