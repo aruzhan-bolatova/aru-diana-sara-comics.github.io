@@ -4,7 +4,7 @@ Welcome to a creative fusion of comics, audio, HTML, CSS, and JavaScript that we
 
 **Project Description**
 
-In this project, our objective was to provide a unique storytelling experience that delves into the life of a singer, spotlighting the struggles that often go unnoticed in her pursuit of a dream. As you navigate through our digital creation, you'll be met with a seamless interface that beautifully weaves the story. The transitions between comic boxes are smooth, creating a cinematic effect, allowing the story to unfold organically. To enrich the storytelling experience, we've incorporated audio elements that resonate with the narrative. The use of background music adds depth and dimension to the story, immersing the audience further into the singer's world.
+In this project, our objective was to provide a unique storytelling experience that delves into the life of a singer named "Angela," spotlighting the struggles that often go unnoticed in her pursuit of a dream. As you navigate through our digital creation, you'll be met with a seamless interface that beautifully weaves the story. The transitions between comic boxes are smooth, creating a cinematic effect, allowing the story to unfold organically. To enrich the storytelling experience, we've incorporated audio elements that resonate with the narrative. The use of background music adds depth and dimension to the story, immersing the audience further into the singer's world.
 
 **Process**
 
