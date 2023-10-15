@@ -7,6 +7,15 @@ body {
     align-items: center;
     text-align: center;
 }
+
+button {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
 /* .main {
   height: 100px;
   width: 100%;
