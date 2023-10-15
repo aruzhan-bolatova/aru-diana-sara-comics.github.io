@@ -1,4 +1,4 @@
-# Welcome to the "Chorus of Change" Comics Website
+# "Chorus of Change" Comics Website
 
 Welcome to a creative fusion of comics, audio, HTML, CSS, and JavaScript that weaves the compelling tale of a singer's journey through the challenges and triumphs that remained hidden behind the curtain.
 
