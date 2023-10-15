@@ -11,4 +11,5 @@ In this project, our objective was to provide a unique storytelling experience t
 Meticulously hand-drawn comics, reflecting hours of dedicated sketching and drawing using Adobe Illustrator, became the core of our storytelling. The technical intricacies of countless lines of code posed their own set of challenges. Late nights were spent perfecting the website's seamless user interface. However, every hurdle was met with determination, leading to the creation of “Chorus of Change.”
 
 **Evaluation**
+
 Our website successfully brought to life the backstage story of the singer and the struggles she encountered on her journey. It exceeded our expectations in terms of storytelling, engagement, and the technical achievements involved in the process. We believe that "Everyone Has Their Backstage." It's a reminder that beyond the spotlight and the applause, there's a personal journey filled with challenges, determination, and dreams.
