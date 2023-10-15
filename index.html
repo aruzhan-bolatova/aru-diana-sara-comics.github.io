@@ -21,52 +21,71 @@
   <!-- making the name and the images move while scrolling using the aos code -->
   <!-- Source: https://michalsnik.github.io/aos/ -->
 <div class="container">
-  <div class="main" data-aos="fade-left">
+     <div class="main" data-aos="fade-left">
        <img src="images/title.svg" alt="Frame" class="not-resizable-image">
-  </div>
+     </div>
 
-    <div class="block" data-aos="fade-left"
-         data-aos-anchor="#example-anchor"
-         data-aos-offset="1000"
-         data-aos-duration="1000">
-         <img src="images/comics scene 1.svg" alt="Frame" class="resizable-image">
-    </div>
+     <div class="scene1">
+          <div class="block" id="first-frame" data-aos="fade-left"
+          data-aos-anchor="#example-anchor"
+          data-aos-offset="1000"
+          data-aos-duration="1000">
+          <img src="images/comics scene 1.svg" alt="Frame" class="resizable-image">
+          </div>
 
-    <div class="block" data-aos="fade-right"
-         data-aos-anchor="#example-anchor"
-         data-aos-offset="2000"
-         data-aos-duration="1000">
-         <img src="images/comics scene 2.svg" alt="Frame" class="resizable-image">
+          <div class="hidden-block" id="first-frame-text">This night Angela was shining! But do you know the whole story...?</div>
+     </div>
 
-    </div>
+     <div class="scene2">
+          <div class="block" id="second-frame" data-aos="fade-right"
+              data-aos-anchor="#example-anchor"
+              data-aos-offset="2000"
+              data-aos-duration="1000">
+              <img src="images/comics scene 2.svg" alt="Frame" class="resizable-image">
+          </div>
+          <div class="hidden-block" id="second-frame-text">Angela was beaming with her music diploma in hand, a symbol of years of hard work. But graduation brought a chorus of critics in between.</div>
+     </div>
 
-    <div class="block" data-aos="fade-left"
-         data-aos-anchor="#example-anchor"
-         data-aos-offset="3000"
-         data-aos-duration="3000">
-         <img src="images/comics scene 3.svg" alt="Frame" class="resizable-image">
-    </div>
+     <div class="scene3">
+          <div class="block" id="third-frame" data-aos="fade-left"
+              data-aos-anchor="#example-anchor"
+              data-aos-offset="3000"
+              data-aos-duration="3000">
+              <img src="images/comics scene 3.svg" alt="Frame" class="resizable-image">
+          </div>
+          <div class="hidden-block" id="third-frame-text">Songwriting is a demanding journey where musicians chase inspiration and perfection, navigating through challenges along the way.</div>
+     </div>
 
-    <div class="block" data-aos="fade-left"
-         data-aos-anchor="#example-anchor"
-         data-aos-offset="4000"
-         data-aos-duration="3000">
-         <img src="images/comics scene 4.svg" alt="Frame" class="resizable-image">
-    </div>
+     <div class="scene4">
+          <div class="block" id="fourth-frame" data-aos="fade-left"
+              data-aos-anchor="#example-anchor"
+              data-aos-offset="4000"
+              data-aos-duration="3000">
+              <img src="images/comics scene 4.svg" alt="Frame" class="resizable-image">
+          </div>
+          <div class="hidden-block" id="fourth-frame-text">Within the realm of music bands, collaboration is both the harmony and the discord. Musicians unite their talents, facing conflicts head-on, while weaving their art in the guidance of the producer's vision.</div>
 
-    <div class="block" data-aos="fade-right"
-         data-aos-anchor="#example-anchor"
-         data-aos-offset="4600"
-         data-aos-duration="1000">
-         <img src="images/comics scene 5.svg" alt="Frame" class="resizable-image">
-    </div>
+     </div>
 
-    <div class="block" data-aos="fade-left"
-         data-aos-anchor="#example-anchor"
-         data-aos-offset="5600"
-         data-aos-duration="3000">
-         <img src="images/comics scene 6.svg" alt="Frame" class="resizable-image">
-    </div>
+     <div class="scene5">
+          <div class="block" id="fifth-frame" data-aos="fade-right"
+              data-aos-anchor="#example-anchor"
+              data-aos-offset="4600"
+              data-aos-duration="1000">
+              <img src="images/comics scene 5.svg" alt="Frame" class="resizable-image">
+          </div>
+          <div class="hidden-block" id="fifth-frame-text">In the world of music, vocalists often strain their voices, going through tough times in their pursuit of perfection, many give up, but not Angela.</div>
+     </div>
+
+     <div class="scene6">
+         <div class="block" id="sixth-frame" data-aos="fade-left"
+              data-aos-anchor="#example-anchor"
+              data-aos-offset="5600"
+              data-aos-duration="3000">
+              <img src="images/comics scene 6.svg" alt="Frame" class="resizable-image">
+         </div>
+         <div class="hidden-block" id="sixth-frame-text">During those tough moments, there are always people cheering you on, lifting your spirits in the world of music. For Angela it was just strangers passing by in the city.</div>
+     </div>
 </div>
    <canvas id="theCanvas" width="300" height="300"></canvas>
 
